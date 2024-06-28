@@ -2,7 +2,7 @@ Package: com.henrikssonbrothers.klarklart
 Name: KlarKlart
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Clear the Klart weather app from disturbing ads
 Maintainer: Christoffer Wigforss
 Author: Christoffer Wigforss
 Section: Tweaks

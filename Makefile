@@ -7,7 +7,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = KlarKlart
 
-$(TWEAK_NAME)_FILES = Tweak.x
+$(TWEAK_NAME)_FILES = $(wildcard *.x)
 $(TWEAK_NAME)_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
